@@ -1,4 +1,4 @@
-# TPXimpact_TakeHomeCallenge_Part1
+# Project_Recreate_Poster
 
 #### Pick one poster and reproduce it using just HTML and CSS (no images)
 
